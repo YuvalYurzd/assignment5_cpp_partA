@@ -1,6 +1,3 @@
-//
-// Created by yarin on 5/29/23.
-//
 
 #include "MagicalContainer.hpp"
 
